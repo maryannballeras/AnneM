@@ -1,0 +1,101 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>BTS</title>
+</head>
+<style>
+body {
+	background-color: #F4C2C2;
+	border: 3px solid purple;
+}
+h2 {
+	text-align: center;
+	color: #800080;
+	margin-top: 30px; 
+}
+p {
+	color: purple;
+	text-align: center;
+	margin-top: 30px;
+}
+.img {
+	margin-left: 33%;
+	margin-right: 30%;
+	width: 350px;
+	height: 300px;
+	border-radius: 50%;
+}
+.links {
+	text-align: left;
+	color: purple;
+	margin-left: 22px;
+	font-size: 18px;
+}
+.koya {
+	margin-left: -50px;
+	margin-top: -80px;
+	width: 200px;
+	height: 100px;
+}
+.rj {
+	margin-left: -110px;
+	margin-top: -80px;
+	width: 200px;
+	height: 100px;
+}
+.shooky {
+	margin-left: -100px;
+	margin-top: -80px;
+	width: 200px;
+	height: 100px;
+}
+.mang {
+	margin-left: -100px;
+	margin-top: -80px;
+	width: 200px;
+	height: 100px;
+}
+.chimmy {
+	margin-left: 300px;
+	margin-top: -80px;
+	width: 200px;
+	height: 100px;
+}
+.tata {
+	margin-left: -100px;
+	margin-top: -80px;
+	width: 200px;
+	height: 100px;
+}
+.cooky {
+	margin-left: -100px;
+	margin-top: -80px;
+	width: 200px;
+	height: 100px;
+	}
+.van {
+	margin-left: 1100px;
+	margin-top: -98px;
+	width: 200px;
+	height: 100px;
+}
+</style>
+<h2>방탄-아미방</h2>
+<p>이 곳에 방탄과아미만 있어요. 여기에 다 행복하게 할거에요! 환영해요!</p>
+<img src="https://pbs.twimg.com/profile_images/1221977556053786626/1ECX3Lha_400x400.jpg" class="img">
+<img src="https://www.bt21.com/img/character/bt21/koya.gif" class="koya">
+<img src="https://www.bt21.com/img/character/bt21/rj.gif" class="rj">
+<img src="https://www.bt21.com/img/character/bt21/shooky.gif" class="shooky">
+<img src="https://www.bt21.com/img/character/bt21/mang.gif" class="mang">
+<img src="https://www.bt21.com/img/character/bt21/chimmy.gif" class="chimmy">
+<img src="https://www.bt21.com/img/character/bt21/tata.gif" class="tata">
+<img src="https://www.bt21.com/img/character/bt21/cooky.gif" class="cooky">
+<img src="https://www.bt21.com/img/character/bt21/van.gif" class="van">
+<p class="links">Links</p>
+<ul>
+	<li><a href="file:///D:/Anneeee/Coding/BTS/BTS%20Lyrics.html" target="_blank">Lyrics</a></li>
+	<li><a href="https://everydaypower.com/bts-quotes/" target="_blank">Quotes</a></li>
+	<li><a href="https://www.youtube.com/watch?v=dlPkgY_YCqg" target="_blank">Funny moments</a></li>
+</ul>
+
+</html>
